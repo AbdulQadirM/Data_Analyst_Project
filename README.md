@@ -5,3 +5,4 @@ I recently completed a project focused on analyzing sales data for Atliq Company
 By leveraging these tools, I was able to effectively navigate and analyze complex data sets to extract meaningful insights that informed strategic decision-making for Atliq Company. My proficiency with these tools allowed for a streamlined and efficient workflow, ultimately leading to a successful project outcome.
 
 I am excited to continue utilizing my data analysis skills and exploring new tools to provide valuable insights that drive business growth and success.
+![project_pic](https://user-images.githubusercontent.com/96516609/222511623-7afbbe36-02aa-4343-9cc2-a04c0a142d63.png)
